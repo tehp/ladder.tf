@@ -1,0 +1,19 @@
+{
+  "name": "ladder.tf",
+  "version": "1.0.0",
+  "description": "Team Fortress 2 ELO system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehp/ladder.tf.git"
+  },
+  "author": "Mackenzie Craig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehp/ladder.tf/issues"
+  },
+  "homepage": "https://github.com/tehp/ladder.tf#readme"
+}
