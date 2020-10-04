@@ -4,6 +4,8 @@
   "description": "Team Fortress 2 ELO system",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/tehp/ladder.tf/issues"
   },
-  "homepage": "https://github.com/tehp/ladder.tf#readme"
+  "homepage": "https://github.com/tehp/ladder.tf#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7"
+  }
 }
